@@ -63,6 +63,6 @@ The model makes real-time classifications using 6 satellite sensor features:
 ---
 
 ## 👨‍💻 Author
-**Venkata Ram Charan Reddy Thallapu**  
+**Venkata Ram Charan Reddy Thallapureddy**
 B.Tech — KL University | CGPA: 9.48  
 AI & ML Engineer
