@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+venv/
+env/
+.venv/
+.env/
+
+# Large model artifacts (automatically downloaded via gdown)
+best_fire_detection_model.pkl
+*.pkl.gz
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
